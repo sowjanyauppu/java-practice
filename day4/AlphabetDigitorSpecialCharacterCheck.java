@@ -16,3 +16,4 @@ public class AlphabetDigitorSpecialCharacterCheck {
 	}
 
 }
+//Good
